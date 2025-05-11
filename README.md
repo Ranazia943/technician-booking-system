@@ -1,27 +1,29 @@
- Technician Booking System
+ Home Service Technician Booking System
 
-A PHP & MySQL-based web application that allows users to book skilled home service technicians (like electricians, plumbers, AC repair, carpenters, etc.) on demand. Designed for simplicity, scalability, and real-world utility, this system enables both customers and admins to manage service requests efficiently.
+This is a web-based application built in PHP and MySQL that allows users to book technicians for various household services like plumbing, electrical repair, appliance servicing, air conditioning, carpentry, and more. The platform supports:
 
- 🔧 Features
+- Customer registration and login
+- Technician registration with skill tagging
+- Service request forms with address, preferred time, and category
+- Admin panel to approve, assign, or track technician jobs
+- Job status updates (pending, accepted, completed)
+- Technician ratings and reviews
+- Email notifications or SMS gateway (optional)
+- Responsive design for mobile and desktop
 
-- 👥 Customer registration and login
-- 🧰 Technician signup with service category
-- 📋 Service request form with address and preferred time
-- 🛠️ Admin dashboard to manage jobs and technicians
-- 🚦 Job status tracking: pending, approved, completed
-- ⭐ Technician rating and feedback system
-- 📱 Responsive UI for mobile and desktop
-
- 🛠️ Technologies Used
+🔧 Built With
 
 - PHP (Core PHP)
-- MySQL
+- MySQL (Database)
 - HTML5 / CSS3
 - JavaScript / Bootstrap
 
+ 📦 Features
 
- 🧪 How to Run
+- ✅ Multi-category technician system (plumber, electrician, etc.)
+- ✅ Real-time job requests and technician assignment
+- ✅ Admin dashboard for service management
+- ✅ Rating system after work is completed
+- ✅ Easy extension for payment gateway or map API
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ranazia943/technician-booking-system.git
+This project can be used for startups or learning how to build booking systems with full admin/customer control.
