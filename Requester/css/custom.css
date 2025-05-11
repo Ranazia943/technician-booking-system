@@ -1,0 +1,29 @@
+.bg-top{
+    background-color: #394170;
+}
+.txt-cl{
+    color:#021071;
+}
+
+/*Change Brand Name Font */
+.navbar-brand{
+    font-family: "Ubuntu", sans-serif;
+    font-family: 2em;
+    font-weight: bold;
+}
+/*Change the Navigation Color*/
+.navbar #myMenu .custom-nav .nav-item a {
+    color:white;
+}
+.navbar #myMenu .custom-nav .nav-item a:hover {
+    color:white;
+}
+/* Make Header Responsive */
+.back-image{
+    background-size: cover;
+    min-height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 0px;
+    margin-top: 55px;
+}
